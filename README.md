@@ -1,2 +1,2 @@
 # KoreanNewsChronicle
-This is Korean News Chronicle Service(python)
+Korean News Chronicle Service(python)
